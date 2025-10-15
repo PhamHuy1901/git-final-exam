@@ -1,0 +1,5 @@
+Tính năng: Gợi ý lộ trình học cá nhân hóa
+-Phân tích lịch sử học tập vaf thời gian ránh
+- Gợi ý bài học theo mức độ
+- Nhắc lịch học thông qua thông báo
+- báo cáo tiế độ học tập
