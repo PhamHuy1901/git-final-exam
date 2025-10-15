@@ -1,0 +1,4 @@
+Giới thiệu cá nhân: tôi tên là Phạm Nhật Huy, đến từ quê hương Cà Mau xinh đẹp hiện tại đang sinh sống và học tập tại thành phố Cần Thơ đã gần 4 năm
+Sở thích: sở thích mà tôi yêu thích nhất là thể thao đặc biệt là niềm đam mê mãnh liệt với bộ môn bóng đá, tôi đã chơi đã gần 10 năm cũng đã  đạt ít nhiều thành tựu lớn nhỏ, sở thích thứ 2: âm nhạc, âm nhạc là món ăn tinh thần đối với tôi mỗi khi tôi cần được thư giản và tập trung. Điều sở thích thứ 3: Máy tính: tôi rất thích việc vọc vạch vưới máy tính, tháo ráp, cài đạt....
+Kĩ năng: 1. Người đi bóng ở lại, 2. Ngủ mà không mở mắt, 3.Khả năng tự giải quyết vấn đề
+Kế hoạch học tập: học tập hiểu quả với việc sử dụng các dòng lệnh git để quản lý các file và các nhánh sao cho hiểu quả, thêm vào đó học cách quản lý được mã nguồn, hơn nữa có thể hiểu được cách làm viec độc lập với các thành viên khác trong nhóm để quản lý code
