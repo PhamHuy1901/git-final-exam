@@ -1,3 +1,5 @@
 -Git giúp quản lý lịch sử thay đổi hiệu quả
 -Nhánh hóa giúp tách biệt tính năng
 -Commit nhỏ, rõ ràng dễ review
+- Reset và revert có mục đích khác nhau
+- Push/pull cần hiểu rõ khi viết lại log
