@@ -10,3 +10,6 @@ Ngày kết thúc: 21-10-2025
 8. Rà soát lỗi và bug
 9. Cải thiện code
 10. TỔng kết
+- Học thêm Git nâng cao: rebase, cherry-pick, revert.
+- Luyện dùng Git trong dự án nhóm.
+- Tìm hiểu CI/CD cơ bản với GitHub Actions.
